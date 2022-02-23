@@ -1,0 +1,23 @@
+.guide2 {
+  background: rgba(204, 204, 204, 0.6);
+  padding: 76px 0px 51px;
+}
+.guide2__picture {
+  float: right;
+}
+.guide2__content {
+  margin-right: 385px;
+  padding: 70px 50px;
+}
+.guide2__title {
+  text-align: right;
+  margin-bottom: 31px;
+}
+.guide2__text {
+  text-align: right;
+  margin-bottom: 31px;
+}
+.guide2__link {
+  text-align: right;
+  float: right;
+}

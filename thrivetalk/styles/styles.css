@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Larsseit, sans-serif;
+}
+.container {
+  max-width: 100%;
+  padding: 95px 178px;
+  display: inline-block;
+  background-color: #62d0df;
+  background-image: url(/images/background.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 605px;
+}
+.title {
+  color: white;
+  font-size: 36px;
+  line-height: 27px;
+}
+.text {
+  color: white;
+  line-height: 35px;
+  font-size: 20px;
+}
+span {
+  font-size: 24px;
+}

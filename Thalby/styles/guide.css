@@ -1,0 +1,19 @@
+.guide {
+  background: rgba(204, 204, 204, 0.3);
+  padding: 76px 0 51px;
+}
+.guide__picture {
+  float: left;
+}
+.guide__content {
+  margin-left: 385px;
+  padding: 70px 50px;
+}
+.guide__title {
+  margin-bottom: 31px;
+}
+.guide__text {
+  margin-bottom: 40px;
+}
+.guide__link {
+}

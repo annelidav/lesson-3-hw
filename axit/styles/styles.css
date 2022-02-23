@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #e5e5e5;
+}
+.main {
+  width: 1060px;
+  padding: 0px;
+  height: 540px;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-family: Open Sans, sans-serif;
+  color: black;
+  font-size: 30px;
+  height: 124px;
+}
+
+.p {
+  font-size: 18px;
+  font-family: Raleway, sans-serif;
+  color: black;
+}
+
+.button {
+  font-family: Open Sans, sans-serif;
+  background: #ec7979;
+  width: 270px;
+  height: 58px;
+  border: 1px solid #ec7979;
+  font-size: 18px;
+}

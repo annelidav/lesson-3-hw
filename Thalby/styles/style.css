@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Roboro, sans-serif;
+}
+.clearfix {
+  clear: both;
+}
+.container {
+  max-width: 1060px;
+  margin: auto;
+}
+
+.text {
+  font-size: 36px;
+}
+
+.link {
+  font-size: 17px;
+}
+.title {
+  font-size: 36px;
+}
